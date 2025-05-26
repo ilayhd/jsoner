@@ -1,0 +1,17 @@
+[
+  {
+    "name": "</h3><script>alert(1)</script><h3>",
+    "status": "critical",
+    "message": "Injected script"
+  },
+   {
+    "name": "Water Treatment Facility Delta-9",
+    "status": "operational",
+    "message": "All checks OK"
+  },
+  {
+    "name": "Factory Alpha-12",
+    "status": "warning",
+    "message": "Minor Systems Failure"
+  }
+]
